@@ -1,0 +1,5 @@
+block,127.0.0.1/32,80,
+allow,192.168.2.0/24,*,
+allow,*,25,
+block,*,21,
+Allow,*,*,established
